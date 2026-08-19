@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-19T15:32:15.431Z",
-  "count": 55,
+  "generated_at": "2026-08-19T15:56:05.751Z",
+  "count": 76,
   "items": [
     {
-      "id": 58,
+      "id": 91,
       "type": "item",
       "name": "Airtag Cover",
       "icon": "",
@@ -19,7 +19,7 @@
       "seasonal": false
     },
     {
-      "id": 59,
+      "id": 90,
       "type": "item",
       "name": "Apple Airtag",
       "icon": "",
@@ -40,14 +40,8 @@
       "name": "Arcteryx Rokt Quarter Zip",
       "icon": "🧥",
       "description": "",
-      "photo_url": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/45b91195033b5f3d60e76b31.jpeg",
       "sizes": [
-        "XXS",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
         "XXL"
       ],
       "tags": [],
@@ -62,9 +56,14 @@
       "name": "Away Everywhere Bag",
       "icon": "👜",
       "description": "",
-      "photo_url": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/cc1250e5286eb90dc06ec3cb.jpeg",
       "sizes": [],
-      "tags": [],
+      "tags": [
+        "travel",
+        "exco",
+        "elt",
+        "aviation"
+      ],
       "region": "NA",
       "countries": [],
       "in_stock": true,
@@ -85,7 +84,7 @@
       "seasonal": false
     },
     {
-      "id": 75,
+      "id": 31,
       "type": "item",
       "name": "Baby Rokt'star Onesie",
       "icon": "",
@@ -99,7 +98,7 @@
       "seasonal": false
     },
     {
-      "id": 60,
+      "id": 89,
       "type": "item",
       "name": "Beetroot Story Card",
       "icon": "",
@@ -115,29 +114,76 @@
       "seasonal": false
     },
     {
-      "id": 7,
+      "id": 45,
       "type": "item",
-      "name": "Dagne Dover Backpack",
-      "icon": "🎒",
+      "name": "Bottle Opener",
+      "icon": "",
       "description": "",
-      "photo_url": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/23b252bd4c4b04fda3b6315a.jpg",
       "sizes": [],
       "tags": [],
-      "region": "EMEA",
+      "region": "NA",
       "countries": [],
       "in_stock": true,
       "seasonal": false
     },
     {
-      "id": 29,
+      "id": 34,
       "type": "item",
-      "name": "Dog Bandana",
+      "name": "Celebration Champagne",
       "icon": "",
       "description": "",
-      "photo_url": "https://rokt-gift-shop.replit.app/uploads/b113ef4ff4ef25b59b8b2f69a5780182",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/e7f7f0741e180a03614d375f.jpeg",
+      "sizes": [],
+      "tags": [
+        "celebration",
+        "promotion",
+        "milestone",
+        "award"
+      ],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 46,
+      "type": "item",
+      "name": "Crew Socks",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/9adca05db4f7510b9f65194f.jpeg",
       "sizes": [],
       "tags": [],
       "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 7,
+      "type": "item",
+      "name": "Dagne Dover Backpack",
+      "icon": "🎒",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/d8bfdb4e3db703264a07a8b6.jpeg",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 95,
+      "type": "item",
+      "name": "Dagne Dover Backpack",
+      "icon": "🎒",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/d8bfdb4e3db703264a07a8b6.jpeg",
+      "sizes": [],
+      "tags": [],
+      "region": "EMEA",
       "countries": [],
       "in_stock": true,
       "seasonal": false
@@ -148,7 +194,7 @@
       "name": "Dog Toy",
       "icon": "🐶",
       "description": "",
-      "photo_url": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/f4f3bbb9c650d44015169227.jpeg",
       "sizes": [],
       "tags": [],
       "region": "NA",
@@ -162,7 +208,7 @@
       "name": "F1 Backpack",
       "icon": "🏎️",
       "description": "",
-      "photo_url": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/f793e8e758e0cb2b48722d74.jpeg",
       "sizes": [],
       "tags": [],
       "region": "NA",
@@ -173,12 +219,16 @@
     {
       "id": 6,
       "type": "item",
-      "name": "F1 Car Model",
+      "name": "F1 Car Model (Large)",
       "icon": "🏎️",
       "description": "",
-      "photo_url": "https://rokt-gift-shop.replit.app/uploads/e53d1e87353d24015ed572f6fb67f163",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/9bc6f2918ef93909930e355c.jpeg",
       "sizes": [],
-      "tags": [],
+      "tags": [
+        "top 200",
+        "clients",
+        "prospects"
+      ],
       "region": "NA",
       "countries": [],
       "in_stock": true,
@@ -190,44 +240,8 @@
       "name": "F1 Hat",
       "icon": "🧢",
       "description": "",
-      "photo_url": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/d4900b70a316387aa4f95f83.png",
       "sizes": [],
-      "tags": [],
-      "region": "NA",
-      "countries": [],
-      "in_stock": true,
-      "seasonal": false
-    },
-    {
-      "id": 5,
-      "type": "item",
-      "name": "F1 Lego Speed Set",
-      "icon": "🧱",
-      "description": "",
-      "photo_url": "https://rokt-gift-shop.replit.app/uploads/379ac7b15c2e0af5b919cf77e683811e",
-      "sizes": [],
-      "tags": [],
-      "region": "NA",
-      "countries": [],
-      "in_stock": true,
-      "seasonal": false
-    },
-    {
-      "id": 1,
-      "type": "item",
-      "name": "F1 Sweatshirt",
-      "icon": "🏁",
-      "description": "Various styles",
-      "photo_url": "",
-      "sizes": [
-        "XXS",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XXL"
-      ],
       "tags": [],
       "region": "NA",
       "countries": [],
@@ -237,15 +251,12 @@
     {
       "id": 4,
       "type": "item",
-      "name": "F1 T-shirt",
+      "name": "F1 Hoodie / Jacket",
       "icon": "👕",
       "description": "",
-      "photo_url": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/d8e6bb541dfabb589c30383f.jpg",
       "sizes": [
-        "XXS",
         "XS",
-        "S",
-        "M",
         "L",
         "XL",
         "XXL"
@@ -257,7 +268,66 @@
       "seasonal": false
     },
     {
-      "id": 61,
+      "id": 40,
+      "type": "item",
+      "name": "F1 Monopoly",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/9889d3ab321d8c06b80aa33a.jpeg",
+      "sizes": [],
+      "tags": [
+        "thankful thursday"
+      ],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 1,
+      "type": "item",
+      "name": "F1 ORBR Sweatshirts",
+      "icon": "🏁",
+      "description": "Various styles",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/bdad9eb312f9ec59e9f221a5.png",
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "tags": [
+        "F1 client"
+      ],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 44,
+      "type": "item",
+      "name": "F1 T-shirt",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/fc2724aba6b6bf904ee5cd97.png",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 85,
       "type": "item",
       "name": "Haan Hand Sanitiser",
       "icon": "",
@@ -273,7 +343,7 @@
       "seasonal": false
     },
     {
-      "id": 62,
+      "id": 82,
       "type": "item",
       "name": "Humantra Electrolytes",
       "icon": "",
@@ -289,43 +359,7 @@
       "seasonal": false
     },
     {
-      "id": 10,
-      "type": "item",
-      "name": "Icebreaker Jacket",
-      "icon": "🧥",
-      "description": "",
-      "photo_url": "",
-      "sizes": [
-        "XXS",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XXL"
-      ],
-      "tags": [],
-      "region": "NA",
-      "countries": [],
-      "in_stock": true,
-      "seasonal": false
-    },
-    {
-      "id": 19,
-      "type": "item",
-      "name": "Leather Makeup Bag",
-      "icon": "👝",
-      "description": "",
-      "photo_url": "https://rokt-gift-shop.replit.app/uploads/021ba35cd68a16da28de6299.png",
-      "sizes": [],
-      "tags": [],
-      "region": "NA",
-      "countries": [],
-      "in_stock": true,
-      "seasonal": false
-    },
-    {
-      "id": 63,
+      "id": 92,
       "type": "item",
       "name": "Leatherology Tech Pouch",
       "icon": "",
@@ -341,7 +375,23 @@
       "seasonal": false
     },
     {
-      "id": 64,
+      "id": 37,
+      "type": "item",
+      "name": "Levain Cookies",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/b1d44c20bdb4358b3863d970.jpeg",
+      "sizes": [],
+      "tags": [
+        "sent straight from vendor"
+      ],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 88,
       "type": "item",
       "name": "Loewe Candle",
       "icon": "",
@@ -357,24 +407,7 @@
       "seasonal": false
     },
     {
-      "id": 65,
-      "type": "item",
-      "name": "Mini F1 Legos",
-      "icon": "🧱",
-      "description": "",
-      "photo_url": "https://rokt-gift-shop.replit.app/uploads/379ac7b15c2e0af5b919cf77e683811e",
-      "sizes": [],
-      "tags": [
-        "clients",
-        "prospects"
-      ],
-      "region": "NA",
-      "countries": [],
-      "in_stock": true,
-      "seasonal": false
-    },
-    {
-      "id": 77,
+      "id": 96,
       "type": "item",
       "name": "Mini F1 Legos",
       "icon": "🧱",
@@ -391,82 +424,12 @@
       "seasonal": false
     },
     {
-      "id": 21,
-      "type": "item",
-      "name": "Moleskine Notebook",
-      "icon": "📔",
-      "description": "",
-      "photo_url": "https://rokt-gift-shop.replit.app/uploads/5e653991514e880a401aa3115db73e96",
-      "sizes": [],
-      "tags": [],
-      "region": "NA",
-      "countries": [],
-      "in_stock": true,
-      "seasonal": false
-    },
-    {
-      "id": 22,
-      "type": "item",
-      "name": "Mophie Portable Charger",
-      "icon": "🔋",
-      "description": "",
-      "photo_url": "",
-      "sizes": [],
-      "tags": [],
-      "region": "NA",
-      "countries": [],
-      "in_stock": true,
-      "seasonal": false
-    },
-    {
-      "id": 33,
-      "type": "item",
-      "name": "NA Test Pen",
-      "icon": "",
-      "description": "",
-      "photo_url": "",
-      "sizes": [],
-      "tags": [],
-      "region": "NA",
-      "countries": [],
-      "in_stock": true,
-      "seasonal": false
-    },
-    {
-      "id": 12,
-      "type": "item",
-      "name": "Named Yeti",
-      "icon": "🩸",
-      "description": "",
-      "photo_url": "",
-      "sizes": [],
-      "tags": [],
-      "region": "NA",
-      "countries": [],
-      "in_stock": true,
-      "seasonal": false
-    },
-    {
-      "id": 23,
-      "type": "item",
-      "name": "Nodpod",
-      "icon": "😴",
-      "description": "",
-      "photo_url": "",
-      "sizes": [],
-      "tags": [],
-      "region": "NA",
-      "countries": [],
-      "in_stock": true,
-      "seasonal": false
-    },
-    {
       "id": 8,
       "type": "item",
       "name": "Nomatic Backpack",
       "icon": "🎒",
       "description": "",
-      "photo_url": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/8f4613eb28dcd8d712a02f99.jpeg",
       "sizes": [],
       "tags": [],
       "region": "NA",
@@ -475,12 +438,43 @@
       "seasonal": false
     },
     {
-      "id": 20,
+      "id": 36,
       "type": "item",
-      "name": "Pen 3-Pack",
-      "icon": "🖊️",
+      "name": "Orchid",
+      "icon": "",
       "description": "",
-      "photo_url": "https://rokt-gift-shop.replit.app/uploads/0b09cb29878414b332911112e1cda44a",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/4af24a83778a73ed4e2b974e.jpeg",
+      "sizes": [],
+      "tags": [
+        "sent straight from vendor",
+        "USA only"
+      ],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 79,
+      "type": "item",
+      "name": "PANTONE Iced Tea Set",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/a93121a0f9d4cdf7e66e23d5.jpg",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 78,
+      "type": "item",
+      "name": "PANTONE Picnic Blanket",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/1d9fe4e1dd711f5bf1aff706.jpg",
       "sizes": [],
       "tags": [],
       "region": "NA",
@@ -494,7 +488,7 @@
       "name": "Pickleball Set",
       "icon": "🏓",
       "description": "",
-      "photo_url": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/325bf5cdc3c148a210d6d34a.png",
       "sizes": [],
       "tags": [],
       "region": "NA",
@@ -503,7 +497,7 @@
       "seasonal": false
     },
     {
-      "id": 66,
+      "id": 81,
       "type": "item",
       "name": "Rains travel pouch",
       "icon": "",
@@ -519,9 +513,222 @@
       "seasonal": false
     },
     {
+      "id": 33,
+      "type": "item",
+      "name": "Rokt Candle",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/a54cf54348a76526ca8f20d1.jpeg",
+      "sizes": [],
+      "tags": [
+        "in office",
+        "client visit"
+      ],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": true
+    },
+    {
+      "id": 51,
+      "type": "item",
+      "name": "Rokt Hat",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/2b783298d2f6d647aa745699.png",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 93,
+      "type": "item",
+      "name": "Rokt Highflask",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/06d305dedf3209c51e811436.jpeg",
+      "sizes": [],
+      "tags": [
+        "c-suite",
+        "premium"
+      ],
+      "region": "EMEA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 43,
+      "type": "item",
+      "name": "Rokt Highflask",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/06d305dedf3209c51e811436.jpeg",
+      "sizes": [],
+      "tags": [
+        "c-suite",
+        "premium"
+      ],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 19,
+      "type": "item",
+      "name": "Rokt Leather Makeup Bag",
+      "icon": "👝",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/021ba35cd68a16da28de6299.png",
+      "sizes": [],
+      "tags": [
+        "travel"
+      ],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 94,
+      "type": "item",
+      "name": "Rokt Marine Layer",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/1524029f449e04502654e1b0.jpeg",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "tags": [],
+      "region": "EMEA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 41,
+      "type": "item",
+      "name": "Rokt Marine Layer",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/1524029f449e04502654e1b0.jpeg",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 21,
+      "type": "item",
+      "name": "Rokt Moleskine Notebook",
+      "icon": "📔",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/5e653991514e880a401aa3115db73e96",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 23,
+      "type": "item",
+      "name": "Rokt Nodpod",
+      "icon": "😴",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/48b20e6aa66976e52ebb3c7f.png",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 39,
+      "type": "item",
+      "name": "Rokt Owala Water Bottle",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/c4b0071b0ec4b2f84955113c.jpeg",
+      "sizes": [],
+      "tags": [
+        "client gift",
+        "office visit",
+        "qbr"
+      ],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": true
+    },
+    {
+      "id": 74,
+      "type": "item",
+      "name": "Rokt Peacock Plant",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/2f452e946f0cc33886e4a1d1.jpg",
+      "sizes": [],
+      "tags": [
+        "sent straight from vendor"
+      ],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 20,
+      "type": "item",
+      "name": "Rokt Pens 3-pack",
+      "icon": "🖊️",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/0b09cb29878414b332911112e1cda44a",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 47,
+      "type": "item",
+      "name": "Rokt Premium Journals",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/bd76c10ed52edbf560f48e33.png",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
       "id": 16,
       "type": "item",
-      "name": "Ripl Water Bottle",
+      "name": "Rokt Ripl Water Bottle",
       "icon": "💧",
       "description": "",
       "photo_url": "https://rokt-gift-shop.replit.app/uploads/acd07b694912eb540c7ec004c18113d8",
@@ -530,36 +737,18 @@
       "region": "NA",
       "countries": [],
       "in_stock": true,
-      "seasonal": false
+      "seasonal": true
     },
     {
-      "id": 78,
+      "id": 77,
       "type": "item",
-      "name": "Rokt Highflask",
+      "name": "Rokt Vinglace Wine Chiller",
       "icon": "",
       "description": "",
-      "photo_url": "https://rokt-gift-shop.replit.app/uploads/06d305dedf3209c51e811436.jpeg",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/60e21faf9daf9e217ae80a47.jpg",
       "sizes": [],
       "tags": [
-        "c-suite",
-        "premium"
-      ],
-      "region": "EMEA",
-      "countries": [],
-      "in_stock": true,
-      "seasonal": false
-    },
-    {
-      "id": 67,
-      "type": "item",
-      "name": "Rokt Highflask",
-      "icon": "",
-      "description": "",
-      "photo_url": "https://rokt-gift-shop.replit.app/uploads/06d305dedf3209c51e811436.jpeg",
-      "sizes": [],
-      "tags": [
-        "c-suite",
-        "premium"
+        "C-Suite premium gift"
       ],
       "region": "NA",
       "countries": [],
@@ -567,21 +756,13 @@
       "seasonal": false
     },
     {
-      "id": 11,
+      "id": 32,
       "type": "item",
-      "name": "Rokt Marine Layer",
-      "icon": "👕",
+      "name": "Rokt mParticle Candle",
+      "icon": "",
       "description": "",
-      "photo_url": "",
-      "sizes": [
-        "XXS",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XXL"
-      ],
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/040566d4e353a8ee840eddcb.jpeg",
+      "sizes": [],
       "tags": [],
       "region": "NA",
       "countries": [],
@@ -589,29 +770,77 @@
       "seasonal": false
     },
     {
-      "id": 76,
+      "id": 59,
       "type": "item",
-      "name": "Rokt Marine Layer",
-      "icon": "👕",
+      "name": "Rokt mParticle Chocolate",
+      "icon": "",
       "description": "",
-      "photo_url": "",
-      "sizes": [
-        "XXS",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XXL"
-      ],
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/87d5c9314f1d758b765080ba.jpg",
+      "sizes": [],
       "tags": [],
-      "region": "EMEA",
+      "region": "NA",
       "countries": [],
       "in_stock": true,
       "seasonal": false
     },
     {
-      "id": 68,
+      "id": 50,
+      "type": "item",
+      "name": "Rokt mParticle Moleskine Notebook",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/e2ce69092ef9788b1659a481.png",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 75,
+      "type": "item",
+      "name": "Rokt mParticle Money Tree",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/e9cb4924ec61efbd8293c208.jpg",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 30,
+      "type": "item",
+      "name": "Rokt mParticle Pens 3-pack",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/cf537e40930f7ea04250cf7e.jpeg",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 58,
+      "type": "item",
+      "name": "Rokt mParticle Portable Charger",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/84263fef8017358303fffc15.jpg",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 56,
       "type": "item",
       "name": "Softcover Notebook",
       "icon": "",
@@ -629,7 +858,7 @@
       "seasonal": false
     },
     {
-      "id": 69,
+      "id": 55,
       "type": "item",
       "name": "Stainless Steel Twin Pen",
       "icon": "",
@@ -647,7 +876,7 @@
       "seasonal": false
     },
     {
-      "id": 70,
+      "id": 84,
       "type": "item",
       "name": "Supergoop Unseen Sunscreen",
       "icon": "",
@@ -663,7 +892,7 @@
       "seasonal": false
     },
     {
-      "id": 71,
+      "id": 83,
       "type": "item",
       "name": "Tide Stain Removal Pen",
       "icon": "",
@@ -679,12 +908,12 @@
       "seasonal": false
     },
     {
-      "id": 14,
+      "id": 48,
       "type": "item",
-      "name": "Umbrella",
-      "icon": "☂️",
+      "name": "Tony's x Rokt Chocolate",
+      "icon": "",
       "description": "",
-      "photo_url": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/fbb070a8d55369d8db51bd93.png",
       "sizes": [],
       "tags": [],
       "region": "NA",
@@ -693,12 +922,12 @@
       "seasonal": false
     },
     {
-      "id": 9,
+      "id": 49,
       "type": "item",
-      "name": "Unnamed Yeti",
-      "icon": "🩸",
+      "name": "Tony's x Rokt mParticle",
+      "icon": "",
       "description": "",
-      "photo_url": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/d454ac4611de9c41e29da6bb.png",
       "sizes": [],
       "tags": [],
       "region": "NA",
@@ -707,7 +936,24 @@
       "seasonal": false
     },
     {
-      "id": 72,
+      "id": 38,
+      "type": "item",
+      "name": "Travel Kit",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/2f27ad3c9b680832f31b6eaf.jpeg",
+      "sizes": [],
+      "tags": [
+        "travel kit",
+        "client visit"
+      ],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": true
+    },
+    {
+      "id": 87,
       "type": "item",
       "name": "WWR Bracelet",
       "icon": "",
@@ -723,7 +969,7 @@
       "seasonal": false
     },
     {
-      "id": 73,
+      "id": 80,
       "type": "item",
       "name": "WWR LAMY Pen",
       "icon": "",
@@ -733,13 +979,15 @@
       "tags": [],
       "region": "EMEA",
       "countries": [
-        "United Kingdom"
+        "United Kingdom",
+        "Germany",
+        "France"
       ],
       "in_stock": true,
       "seasonal": false
     },
     {
-      "id": 74,
+      "id": 86,
       "type": "item",
       "name": "WWR Lucy Shepherd Book",
       "icon": "",
@@ -757,7 +1005,18 @@
   ],
   "kits": [
     {
-      "id": 2,
+      "id": 7,
+      "type": "kit",
+      "name": "C-Suite Congratulatory Set",
+      "icon": "🎁",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/11b57fa9eb4e9719cb6c78f3.jpg",
+      "region": "NA",
+      "countries": [],
+      "in_stock": true
+    },
+    {
+      "id": 6,
       "type": "kit",
       "name": "Exec Meeting Kit",
       "icon": "🎁",
@@ -770,7 +1029,18 @@
       "in_stock": true
     },
     {
-      "id": 3,
+      "id": 5,
+      "type": "kit",
+      "name": "F1 Fan Kit",
+      "icon": "🎁",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/559e52c8e9c4f33b7ec9d6d9.jpg",
+      "region": "NA",
+      "countries": [],
+      "in_stock": true
+    },
+    {
+      "id": 11,
       "type": "kit",
       "name": "Loewe Candle Bundle",
       "icon": "🎁",
@@ -778,12 +1048,14 @@
       "photo_url": "https://rokt-gift-shop.replit.app/uploads/1036a16c5dd3a927990f9ff4.jpg",
       "region": "EMEA",
       "countries": [
-        "United Kingdom"
+        "United Kingdom",
+        "Germany",
+        "France"
       ],
       "in_stock": true
     },
     {
-      "id": 4,
+      "id": 2,
       "type": "kit",
       "name": "New Baby Kit",
       "icon": "🎁",
@@ -794,7 +1066,7 @@
       "in_stock": true
     },
     {
-      "id": 8,
+      "id": 13,
       "type": "kit",
       "name": "New Baby Kit",
       "icon": "🎁",
@@ -807,18 +1079,51 @@
       "in_stock": true
     },
     {
-      "id": 1,
+      "id": 3,
       "type": "kit",
-      "name": "QBR / Client Visit",
+      "name": "New Pet Kit",
       "icon": "🎁",
       "description": "",
-      "photo_url": "https://rokt-gift-shop.replit.app/uploads/0b8060bf13c05c15a1da6dac.png",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/6c11f8e84aa7d3af6c04b0fd.jpeg",
       "region": "NA",
       "countries": [],
       "in_stock": true
     },
     {
-      "id": 5,
+      "id": 1,
+      "type": "kit",
+      "name": "Rokt QBR",
+      "icon": "🎁",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/8f4d61e7920bbc1c625f2423.jpg",
+      "region": "NA",
+      "countries": [],
+      "in_stock": true
+    },
+    {
+      "id": 4,
+      "type": "kit",
+      "name": "Rokt mParticle QBR",
+      "icon": "🎁",
+      "description": "in office client visit",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/c123051856ee972229c596c8.jpeg",
+      "region": "NA",
+      "countries": [],
+      "in_stock": true
+    },
+    {
+      "id": 8,
+      "type": "kit",
+      "name": "Summer Premium Wine Chiller & White Wine",
+      "icon": "🎁",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/3ea339da0f87c2b7ced849b5.jpg",
+      "region": "NA",
+      "countries": [],
+      "in_stock": true
+    },
+    {
+      "id": 12,
       "type": "kit",
       "name": "Tech pouch Bundle",
       "icon": "🎁",
@@ -831,7 +1136,7 @@
       "in_stock": true
     },
     {
-      "id": 6,
+      "id": 9,
       "type": "kit",
       "name": "Travel Kit",
       "icon": "🎁",
@@ -844,7 +1149,7 @@
       "in_stock": true
     },
     {
-      "id": 7,
+      "id": 10,
       "type": "kit",
       "name": "WWR Bundle",
       "icon": "🎁",
