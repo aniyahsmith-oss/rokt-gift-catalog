@@ -1,0 +1,860 @@
+{
+  "generated_at": "2026-08-19T15:31:18.892Z",
+  "count": 55,
+  "items": [
+    {
+      "id": 58,
+      "type": "item",
+      "name": "Airtag Cover",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/c742cfd4553ceaaf04a12e50.jpg",
+      "sizes": [],
+      "tags": [],
+      "region": "EMEA",
+      "countries": [
+        "United Kingdom"
+      ],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 59,
+      "type": "item",
+      "name": "Apple Airtag",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/9a2e170207369d3689bdcac4.jpg",
+      "sizes": [],
+      "tags": [],
+      "region": "EMEA",
+      "countries": [
+        "United Kingdom"
+      ],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 15,
+      "type": "item",
+      "name": "Arcteryx Rokt Quarter Zip",
+      "icon": "🧥",
+      "description": "",
+      "photo_url": "",
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 13,
+      "type": "item",
+      "name": "Away Everywhere Bag",
+      "icon": "👜",
+      "description": "",
+      "photo_url": "",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 25,
+      "type": "item",
+      "name": "Baby Beetroot Rattle",
+      "icon": "👶",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/ad739be3889404c9a1418ca4614f1792",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 75,
+      "type": "item",
+      "name": "Baby Rokt'star Onesie",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/43688770b54b793e54f4d769.jpeg",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 60,
+      "type": "item",
+      "name": "Beetroot Story Card",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/9af95f3a39f5ba594438e607.jpg",
+      "sizes": [],
+      "tags": [],
+      "region": "EMEA",
+      "countries": [
+        "United Kingdom"
+      ],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 7,
+      "type": "item",
+      "name": "Dagne Dover Backpack",
+      "icon": "🎒",
+      "description": "",
+      "photo_url": "",
+      "sizes": [],
+      "tags": [],
+      "region": "EMEA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 29,
+      "type": "item",
+      "name": "Dog Bandana",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/b113ef4ff4ef25b59b8b2f69a5780182",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 24,
+      "type": "item",
+      "name": "Dog Toy",
+      "icon": "🐶",
+      "description": "",
+      "photo_url": "",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 2,
+      "type": "item",
+      "name": "F1 Backpack",
+      "icon": "🏎️",
+      "description": "",
+      "photo_url": "",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 6,
+      "type": "item",
+      "name": "F1 Car Model",
+      "icon": "🏎️",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/e53d1e87353d24015ed572f6fb67f163",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 3,
+      "type": "item",
+      "name": "F1 Hat",
+      "icon": "🧢",
+      "description": "",
+      "photo_url": "",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 5,
+      "type": "item",
+      "name": "F1 Lego Speed Set",
+      "icon": "🧱",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/379ac7b15c2e0af5b919cf77e683811e",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 1,
+      "type": "item",
+      "name": "F1 Sweatshirt",
+      "icon": "🏁",
+      "description": "Various styles",
+      "photo_url": "",
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 4,
+      "type": "item",
+      "name": "F1 T-shirt",
+      "icon": "👕",
+      "description": "",
+      "photo_url": "",
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 61,
+      "type": "item",
+      "name": "Haan Hand Sanitiser",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/e84aa8120b5e8848e86765db.jpg",
+      "sizes": [],
+      "tags": [],
+      "region": "EMEA",
+      "countries": [
+        "United Kingdom"
+      ],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 62,
+      "type": "item",
+      "name": "Humantra Electrolytes",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/8d383d7f30c47f4ee7792001.jpg",
+      "sizes": [],
+      "tags": [],
+      "region": "EMEA",
+      "countries": [
+        "United Kingdom"
+      ],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 10,
+      "type": "item",
+      "name": "Icebreaker Jacket",
+      "icon": "🧥",
+      "description": "",
+      "photo_url": "",
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 19,
+      "type": "item",
+      "name": "Leather Makeup Bag",
+      "icon": "👝",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/021ba35cd68a16da28de6299.png",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 63,
+      "type": "item",
+      "name": "Leatherology Tech Pouch",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/633f959e1a7483d77efc74ed.jpg",
+      "sizes": [],
+      "tags": [],
+      "region": "EMEA",
+      "countries": [
+        "United Kingdom"
+      ],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 64,
+      "type": "item",
+      "name": "Loewe Candle",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/9aa1f01d94f7eb52843fb07f.jpg",
+      "sizes": [],
+      "tags": [],
+      "region": "EMEA",
+      "countries": [
+        "United Kingdom"
+      ],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 65,
+      "type": "item",
+      "name": "Mini F1 Legos",
+      "icon": "🧱",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/379ac7b15c2e0af5b919cf77e683811e",
+      "sizes": [],
+      "tags": [
+        "clients",
+        "prospects"
+      ],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 77,
+      "type": "item",
+      "name": "Mini F1 Legos",
+      "icon": "🧱",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/379ac7b15c2e0af5b919cf77e683811e",
+      "sizes": [],
+      "tags": [
+        "clients",
+        "prospects"
+      ],
+      "region": "EMEA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 21,
+      "type": "item",
+      "name": "Moleskine Notebook",
+      "icon": "📔",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/5e653991514e880a401aa3115db73e96",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 22,
+      "type": "item",
+      "name": "Mophie Portable Charger",
+      "icon": "🔋",
+      "description": "",
+      "photo_url": "",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 33,
+      "type": "item",
+      "name": "NA Test Pen",
+      "icon": "",
+      "description": "",
+      "photo_url": "",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 12,
+      "type": "item",
+      "name": "Named Yeti",
+      "icon": "🩸",
+      "description": "",
+      "photo_url": "",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 23,
+      "type": "item",
+      "name": "Nodpod",
+      "icon": "😴",
+      "description": "",
+      "photo_url": "",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 8,
+      "type": "item",
+      "name": "Nomatic Backpack",
+      "icon": "🎒",
+      "description": "",
+      "photo_url": "",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 20,
+      "type": "item",
+      "name": "Pen 3-Pack",
+      "icon": "🖊️",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/0b09cb29878414b332911112e1cda44a",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 17,
+      "type": "item",
+      "name": "Pickleball Set",
+      "icon": "🏓",
+      "description": "",
+      "photo_url": "",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 66,
+      "type": "item",
+      "name": "Rains travel pouch",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/ead5cbf6a42069ace11a877e.jpg",
+      "sizes": [],
+      "tags": [],
+      "region": "EMEA",
+      "countries": [
+        "United Kingdom"
+      ],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 16,
+      "type": "item",
+      "name": "Ripl Water Bottle",
+      "icon": "💧",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/acd07b694912eb540c7ec004c18113d8",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 78,
+      "type": "item",
+      "name": "Rokt Highflask",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/06d305dedf3209c51e811436.jpeg",
+      "sizes": [],
+      "tags": [
+        "c-suite",
+        "premium"
+      ],
+      "region": "EMEA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 67,
+      "type": "item",
+      "name": "Rokt Highflask",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/06d305dedf3209c51e811436.jpeg",
+      "sizes": [],
+      "tags": [
+        "c-suite",
+        "premium"
+      ],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 11,
+      "type": "item",
+      "name": "Rokt Marine Layer",
+      "icon": "👕",
+      "description": "",
+      "photo_url": "",
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 76,
+      "type": "item",
+      "name": "Rokt Marine Layer",
+      "icon": "👕",
+      "description": "",
+      "photo_url": "",
+      "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "tags": [],
+      "region": "EMEA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 68,
+      "type": "item",
+      "name": "Softcover Notebook",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/0b189c25ade32b507495575c.jpg",
+      "sizes": [],
+      "tags": [
+        "exec"
+      ],
+      "region": "EMEA",
+      "countries": [
+        "United Kingdom"
+      ],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 69,
+      "type": "item",
+      "name": "Stainless Steel Twin Pen",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/117304a3e6d7f6661545f951.jpg",
+      "sizes": [],
+      "tags": [
+        "exec"
+      ],
+      "region": "EMEA",
+      "countries": [
+        "United Kingdom"
+      ],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 70,
+      "type": "item",
+      "name": "Supergoop Unseen Sunscreen",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/40c1c58dd076d895d9384c2b.jpg",
+      "sizes": [],
+      "tags": [],
+      "region": "EMEA",
+      "countries": [
+        "United Kingdom"
+      ],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 71,
+      "type": "item",
+      "name": "Tide Stain Removal Pen",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/9801dc4cf5d5dd4cbac24292.jpg",
+      "sizes": [],
+      "tags": [],
+      "region": "EMEA",
+      "countries": [
+        "United Kingdom"
+      ],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 14,
+      "type": "item",
+      "name": "Umbrella",
+      "icon": "☂️",
+      "description": "",
+      "photo_url": "",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 9,
+      "type": "item",
+      "name": "Unnamed Yeti",
+      "icon": "🩸",
+      "description": "",
+      "photo_url": "",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 72,
+      "type": "item",
+      "name": "WWR Bracelet",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/008a42474eab51ba6741551f.jpg",
+      "sizes": [],
+      "tags": [],
+      "region": "EMEA",
+      "countries": [
+        "United Kingdom"
+      ],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 73,
+      "type": "item",
+      "name": "WWR LAMY Pen",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/cbb6f46102c683b38c4937f4.jpg",
+      "sizes": [],
+      "tags": [],
+      "region": "EMEA",
+      "countries": [
+        "United Kingdom"
+      ],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 74,
+      "type": "item",
+      "name": "WWR Lucy Shepherd Book",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/df99b000449e02b9d583c128.jpg",
+      "sizes": [],
+      "tags": [],
+      "region": "EMEA",
+      "countries": [
+        "United Kingdom"
+      ],
+      "in_stock": true,
+      "seasonal": false
+    }
+  ],
+  "kits": [
+    {
+      "id": 2,
+      "type": "kit",
+      "name": "Exec Meeting Kit",
+      "icon": "🎁",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/98da20af23942be1fc6ca249.jpg",
+      "region": "EMEA",
+      "countries": [
+        "United Kingdom"
+      ],
+      "in_stock": true
+    },
+    {
+      "id": 3,
+      "type": "kit",
+      "name": "Loewe Candle Bundle",
+      "icon": "🎁",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/1036a16c5dd3a927990f9ff4.jpg",
+      "region": "EMEA",
+      "countries": [
+        "United Kingdom"
+      ],
+      "in_stock": true
+    },
+    {
+      "id": 4,
+      "type": "kit",
+      "name": "New Baby Kit",
+      "icon": "🎁",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/fb036a0a422623dd73fbac9c.jpeg",
+      "region": "NA",
+      "countries": [],
+      "in_stock": true
+    },
+    {
+      "id": 8,
+      "type": "kit",
+      "name": "New Baby Kit",
+      "icon": "🎁",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/fb036a0a422623dd73fbac9c.jpeg",
+      "region": "EMEA",
+      "countries": [
+        "United Kingdom"
+      ],
+      "in_stock": true
+    },
+    {
+      "id": 1,
+      "type": "kit",
+      "name": "QBR / Client Visit",
+      "icon": "🎁",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/0b8060bf13c05c15a1da6dac.png",
+      "region": "NA",
+      "countries": [],
+      "in_stock": true
+    },
+    {
+      "id": 5,
+      "type": "kit",
+      "name": "Tech pouch Bundle",
+      "icon": "🎁",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/310acbc90464a6c0500886d2.jpg",
+      "region": "EMEA",
+      "countries": [
+        "United Kingdom"
+      ],
+      "in_stock": true
+    },
+    {
+      "id": 6,
+      "type": "kit",
+      "name": "Travel Kit",
+      "icon": "🎁",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/57de541756000e3b881e2cec.jpg",
+      "region": "EMEA",
+      "countries": [
+        "United Kingdom"
+      ],
+      "in_stock": true
+    },
+    {
+      "id": 7,
+      "type": "kit",
+      "name": "WWR Bundle",
+      "icon": "🎁",
+      "description": "",
+      "photo_url": "https://ab049732-38e3-495d-b5ae-41c10f593a60-00-1fnbacgha10tf.spock.replit.dev/uploads/3c3932c6dac3a285197aa249.jpg",
+      "region": "EMEA",
+      "countries": [
+        "United Kingdom"
+      ],
+      "in_stock": true
+    }
+  ]
+}
