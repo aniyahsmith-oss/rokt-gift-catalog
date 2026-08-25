@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T13:42:06.029Z",
+  "generated_at": "2026-08-25T18:50:10.510Z",
   "count": 76,
   "items": [
     {
@@ -544,23 +544,6 @@
       "seasonal": false
     },
     {
-      "id": 43,
-      "type": "item",
-      "name": "Rokt Highflask",
-      "icon": "",
-      "description": "",
-      "photo_url": "https://rokt-gift-shop.replit.app/uploads/06d305dedf3209c51e811436.jpeg",
-      "sizes": [],
-      "tags": [
-        "c-suite",
-        "premium"
-      ],
-      "region": "NA",
-      "countries": [],
-      "in_stock": true,
-      "seasonal": false
-    },
-    {
       "id": 93,
       "type": "item",
       "name": "Rokt Highflask",
@@ -573,6 +556,23 @@
         "premium"
       ],
       "region": "EMEA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 43,
+      "type": "item",
+      "name": "Rokt Highflask",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/06d305dedf3209c51e811436.jpeg",
+      "sizes": [],
+      "tags": [
+        "c-suite",
+        "premium"
+      ],
+      "region": "NA",
       "countries": [],
       "in_stock": true,
       "seasonal": false
