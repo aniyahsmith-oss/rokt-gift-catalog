@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T09:16:14.560Z",
-  "count": 76,
+  "generated_at": "2026-08-26T13:53:45.073Z",
+  "count": 77,
   "items": [
     {
       "id": 91,
@@ -161,20 +161,6 @@
       "seasonal": false
     },
     {
-      "id": 7,
-      "type": "item",
-      "name": "Dagne Dover Backpack",
-      "icon": "🎒",
-      "description": "",
-      "photo_url": "https://rokt-gift-shop.replit.app/uploads/d8bfdb4e3db703264a07a8b6.jpeg",
-      "sizes": [],
-      "tags": [],
-      "region": "NA",
-      "countries": [],
-      "in_stock": true,
-      "seasonal": false
-    },
-    {
       "id": 95,
       "type": "item",
       "name": "Dagne Dover Backpack",
@@ -184,6 +170,20 @@
       "sizes": [],
       "tags": [],
       "region": "EMEA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 7,
+      "type": "item",
+      "name": "Dagne Dover Backpack",
+      "icon": "🎒",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/d8bfdb4e3db703264a07a8b6.jpeg",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
       "countries": [],
       "in_stock": true,
       "seasonal": false
@@ -530,12 +530,12 @@
       "seasonal": true
     },
     {
-      "id": 51,
+      "id": 99,
       "type": "item",
-      "name": "Rokt Hat",
+      "name": "Rokt Golf Balls",
       "icon": "",
       "description": "",
-      "photo_url": "https://rokt-gift-shop.replit.app/uploads/2b783298d2f6d647aa745699.png",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/33f5b05267c6d31658bfa133.jpg",
       "sizes": [],
       "tags": [],
       "region": "NA",
@@ -544,17 +544,14 @@
       "seasonal": false
     },
     {
-      "id": 43,
+      "id": 51,
       "type": "item",
-      "name": "Rokt Highflask",
+      "name": "Rokt Hat",
       "icon": "",
       "description": "",
-      "photo_url": "https://rokt-gift-shop.replit.app/uploads/06d305dedf3209c51e811436.jpeg",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/2b783298d2f6d647aa745699.png",
       "sizes": [],
-      "tags": [
-        "c-suite",
-        "premium"
-      ],
+      "tags": [],
       "region": "NA",
       "countries": [],
       "in_stock": true,
@@ -578,6 +575,23 @@
       "seasonal": false
     },
     {
+      "id": 43,
+      "type": "item",
+      "name": "Rokt Highflask",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/06d305dedf3209c51e811436.jpeg",
+      "sizes": [],
+      "tags": [
+        "c-suite",
+        "premium"
+      ],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
       "id": 19,
       "type": "item",
       "name": "Rokt Leather Makeup Bag",
@@ -588,27 +602,6 @@
       "tags": [
         "travel"
       ],
-      "region": "NA",
-      "countries": [],
-      "in_stock": true,
-      "seasonal": false
-    },
-    {
-      "id": 41,
-      "type": "item",
-      "name": "Rokt Marine Layer",
-      "icon": "",
-      "description": "",
-      "photo_url": "https://rokt-gift-shop.replit.app/uploads/1524029f449e04502654e1b0.jpeg",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XXL"
-      ],
-      "tags": [],
       "region": "NA",
       "countries": [],
       "in_stock": true,
@@ -631,6 +624,27 @@
       ],
       "tags": [],
       "region": "EMEA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 41,
+      "type": "item",
+      "name": "Rokt Marine Layer",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/1524029f449e04502654e1b0.jpeg",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "tags": [],
+      "region": "NA",
       "countries": [],
       "in_stock": true,
       "seasonal": false
