@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T19:53:24.236Z",
-  "count": 77,
+  "generated_at": "2026-08-28T17:05:50.710Z",
+  "count": 78,
   "items": [
     {
       "id": 91,
@@ -161,20 +161,6 @@
       "seasonal": false
     },
     {
-      "id": 95,
-      "type": "item",
-      "name": "Dagne Dover Backpack",
-      "icon": "🎒",
-      "description": "",
-      "photo_url": "https://rokt-gift-shop.replit.app/uploads/d8bfdb4e3db703264a07a8b6.jpeg",
-      "sizes": [],
-      "tags": [],
-      "region": "EMEA",
-      "countries": [],
-      "in_stock": true,
-      "seasonal": false
-    },
-    {
       "id": 7,
       "type": "item",
       "name": "Dagne Dover Backpack",
@@ -184,6 +170,20 @@
       "sizes": [],
       "tags": [],
       "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 95,
+      "type": "item",
+      "name": "Dagne Dover Backpack",
+      "icon": "🎒",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/d8bfdb4e3db703264a07a8b6.jpeg",
+      "sizes": [],
+      "tags": [],
+      "region": "EMEA",
       "countries": [],
       "in_stock": true,
       "seasonal": false
@@ -537,7 +537,9 @@
       "description": "",
       "photo_url": "https://rokt-gift-shop.replit.app/uploads/33f5b05267c6d31658bfa133.jpg",
       "sizes": [],
-      "tags": [],
+      "tags": [
+        "for conferences/in-person meetings"
+      ],
       "region": "NA",
       "countries": [],
       "in_stock": true,
@@ -601,6 +603,25 @@
       "sizes": [],
       "tags": [
         "travel"
+      ],
+      "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 54,
+      "type": "item",
+      "name": "Rokt Louise Carmen Roadbooks",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/a132fdf2d9ec5901ad5b4e1f.png",
+      "sizes": [
+        "black",
+        "beetroot"
+      ],
+      "tags": [
+        "Message marketing for approval"
       ],
       "region": "NA",
       "countries": [],
