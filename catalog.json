@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T18:11:05.577Z",
+  "generated_at": "2026-08-31T18:16:05.642Z",
   "count": 77,
   "items": [
     {
@@ -161,20 +161,6 @@
       "seasonal": false
     },
     {
-      "id": 7,
-      "type": "item",
-      "name": "Dagne Dover Backpack",
-      "icon": "🎒",
-      "description": "",
-      "photo_url": "https://rokt-gift-shop.replit.app/uploads/d8bfdb4e3db703264a07a8b6.jpeg",
-      "sizes": [],
-      "tags": [],
-      "region": "NA",
-      "countries": [],
-      "in_stock": true,
-      "seasonal": false
-    },
-    {
       "id": 95,
       "type": "item",
       "name": "Dagne Dover Backpack",
@@ -184,6 +170,20 @@
       "sizes": [],
       "tags": [],
       "region": "EMEA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 7,
+      "type": "item",
+      "name": "Dagne Dover Backpack",
+      "icon": "🎒",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/d8bfdb4e3db703264a07a8b6.jpeg",
+      "sizes": [],
+      "tags": [],
+      "region": "NA",
       "countries": [],
       "in_stock": true,
       "seasonal": false
