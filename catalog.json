@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T18:06:05.575Z",
-  "count": 78,
+  "generated_at": "2026-08-31T18:11:05.577Z",
+  "count": 77,
   "items": [
     {
       "id": 91,
@@ -739,20 +739,6 @@
       "icon": "🖊️",
       "description": "",
       "photo_url": "https://rokt-gift-shop.replit.app/uploads/0b09cb29878414b332911112e1cda44a",
-      "sizes": [],
-      "tags": [],
-      "region": "NA",
-      "countries": [],
-      "in_stock": true,
-      "seasonal": false
-    },
-    {
-      "id": 47,
-      "type": "item",
-      "name": "Rokt Premium Journals",
-      "icon": "",
-      "description": "",
-      "photo_url": "https://rokt-gift-shop.replit.app/uploads/bd76c10ed52edbf560f48e33.png",
       "sizes": [],
       "tags": [],
       "region": "NA",
