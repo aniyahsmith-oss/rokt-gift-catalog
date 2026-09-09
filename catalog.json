@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T19:02:12.501Z",
-  "count": 77,
+  "generated_at": "2026-09-09T20:02:31.147Z",
+  "count": 75,
   "items": [
     {
       "id": 91,
@@ -64,20 +64,6 @@
         "elt",
         "aviation"
       ],
-      "region": "NA",
-      "countries": [],
-      "in_stock": true,
-      "seasonal": false
-    },
-    {
-      "id": 25,
-      "type": "item",
-      "name": "Baby Beetroot Rattle",
-      "icon": "👶",
-      "description": "",
-      "photo_url": "https://rokt-gift-shop.replit.app/uploads/ad739be3889404c9a1418ca4614f1792",
-      "sizes": [],
-      "tags": [],
       "region": "NA",
       "countries": [],
       "in_stock": true,
@@ -560,23 +546,6 @@
       "seasonal": false
     },
     {
-      "id": 43,
-      "type": "item",
-      "name": "Rokt Highflask",
-      "icon": "",
-      "description": "",
-      "photo_url": "https://rokt-gift-shop.replit.app/uploads/06d305dedf3209c51e811436.jpeg",
-      "sizes": [],
-      "tags": [
-        "c-suite",
-        "premium"
-      ],
-      "region": "NA",
-      "countries": [],
-      "in_stock": true,
-      "seasonal": false
-    },
-    {
       "id": 93,
       "type": "item",
       "name": "Rokt Highflask",
@@ -589,6 +558,23 @@
         "premium"
       ],
       "region": "EMEA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 43,
+      "type": "item",
+      "name": "Rokt Highflask",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/06d305dedf3209c51e811436.jpeg",
+      "sizes": [],
+      "tags": [
+        "c-suite",
+        "premium"
+      ],
+      "region": "NA",
       "countries": [],
       "in_stock": true,
       "seasonal": false
@@ -629,27 +615,6 @@
       "seasonal": false
     },
     {
-      "id": 94,
-      "type": "item",
-      "name": "Rokt Marine Layer",
-      "icon": "",
-      "description": "",
-      "photo_url": "https://rokt-gift-shop.replit.app/uploads/1524029f449e04502654e1b0.jpeg",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XXL"
-      ],
-      "tags": [],
-      "region": "EMEA",
-      "countries": [],
-      "in_stock": true,
-      "seasonal": false
-    },
-    {
       "id": 41,
       "type": "item",
       "name": "Rokt Marine Layer",
@@ -666,6 +631,27 @@
       ],
       "tags": [],
       "region": "NA",
+      "countries": [],
+      "in_stock": true,
+      "seasonal": false
+    },
+    {
+      "id": 94,
+      "type": "item",
+      "name": "Rokt Marine Layer",
+      "icon": "",
+      "description": "",
+      "photo_url": "https://rokt-gift-shop.replit.app/uploads/1524029f449e04502654e1b0.jpeg",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "tags": [],
+      "region": "EMEA",
       "countries": [],
       "in_stock": true,
       "seasonal": false
@@ -1073,17 +1059,6 @@
         "Germany",
         "France"
       ],
-      "in_stock": true
-    },
-    {
-      "id": 2,
-      "type": "kit",
-      "name": "New Baby Kit",
-      "icon": "🎁",
-      "description": "",
-      "photo_url": "https://rokt-gift-shop.replit.app/uploads/fb036a0a422623dd73fbac9c.jpeg",
-      "region": "NA",
-      "countries": [],
       "in_stock": true
     },
     {
